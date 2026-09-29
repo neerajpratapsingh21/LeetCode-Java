@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0179-largest-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0912-sort-an-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0912-sort-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0844-backspace-string-compare](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bracket Sequences
