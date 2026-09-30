@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bracket Sequences
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajpratapsingh21/LeetCode-Java/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
